@@ -103,7 +103,7 @@ This manual is intended to guide users on the ethical and responsible use of "Ph
 
 If you found this tool useful and want to support its development, consider buying me a coffee through PayPal:
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-blue.svg)](https://www.paypal.com/paypalme/yourpaypalusername)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-blue.svg)](https://paypal.me/rainierteoxon7?country.x=PH&locale.x=en_US)
 
 <img src="https://gifdb.com/images/high/dancing-roach-insect-796v3spbhd1lipzk.webp" alt="Cute GIF" width="150">
 
