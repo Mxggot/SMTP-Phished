@@ -4,6 +4,8 @@
 
 ![Phished Main Menu](https://github.com/Mxggot/SMTP-Phished/blob/main/photos/phished-mainmenu.png)
 
+#![Phished Help](https://github.com/Mxggot/SMTP-Phished/blob/main/photos/phished-help.png)
+
 # Important Notice
 
 This repository contains a sample tool intended solely for educational and awareness purposes regarding the dangers of phishing. The creation and use of phishing tools are illegal and unethical activities. The author of this repository neither encourages nor endorses the practice of phishing.
@@ -74,3 +76,11 @@ This manual is intended to guide users on the ethical and responsible use of "Ph
 #### Sending Test Emails:
 > The tool will send simulated phishing emails only to the provided addresses, causing no real harm. This allows understanding phishing signs and enhancing awareness.
 > After sending the emails, the tool will provide feedback on the success or failure of the process.
+
+---
+
+If you found this tool useful and want to support its development, consider buying me a coffee through PayPal:
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-blue.svg)](https://paypal.me/rainierteoxon7?country.x=PH&locale.x=en_US)
+
+Your support is greatly appreciated! ☕️🙏
