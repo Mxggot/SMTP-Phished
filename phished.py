@@ -106,7 +106,7 @@ def warning_message():
 
     ''')
 
-    consent = input(f'''{colors['blue']}Do you agree? (yes or no)> {colors['clear']}''')
+    consent = input(f'''{colors['blue']}Do you agree? ({colors['green']}yes{colors['clear']} or{colors['red']} no{colors['blue']})>{colors['clear']}''')
 
     if consent == 'yes':
         print(f'''{colors['yellow']}Loading...{colors['clear']}''')
@@ -200,9 +200,9 @@ if __name__ == "__main__":
             match entry:
                 case 1: # Single Target
                     victim_email = input(f'''{colors['yellow']}victim email> {colors['clear']}''')
-                    fake_sender = input(f'''{colors['yellow']}sender email ({colors['red']}fake{colors['cyan']})> {colors['clear']}''')
+                    fake_sender = input(f'''{colors['yellow']}sender email ({colors['red']}fake{colors['yellow']})> {colors['clear']}''')
                     title_email = input(f'''{colors['yellow']}email subject> {colors['clear']}''')
-                    path_body_email = input(f'''{colors['yellow']}message path ({colors['red']}.txt{colors['cyan']})> {colors['clear']}''')
+                    path_body_email = input(f'''{colors['yellow']}message path ({colors['red']}.txt{colors['yellow']})> {colors['clear']}''')
                     smtp_server = input(f'''{colors['yellow']}SMTP server ({colors['red']}e.g. mail.server.com:587{colors['cyan']})> {colors['clear']}''')
                     smtp_login = input(f'''{colors['yellow']}SMTP login> {colors['clear']}''')
                     smtp_password = input(f'''{colors['yellow']}SMTP password> {colors['clear']}''')
@@ -212,16 +212,16 @@ if __name__ == "__main__":
                     time.sleep(10)
                     break
                 case 2: # Multiple Targets
-                    path_emails = input(f'''{colors['yellow']}email list ({colors['red']}.txt{colors['cyan']})> {colors['clear']}''')
+                    path_emails = input(f'''{colors['yellow']}email list ({colors['red']}.txt{colors['yellow']})> {colors['clear']}''')
 
                     with open(path_emails, 'r') as file:
                         file = file.read()
                         emails = file.replace('\n', '').split(';')
 
-                    fake_sender = input(f'''{colors['yellow']}sender email ({colors['red']}fake{colors['cyan']})> {colors['clear']}''')
+                    fake_sender = input(f'''{colors['yellow']}sender email ({colors['red']}fake{colors['yellow']})> {colors['clear']}''')
                     title_email = input(f'''{colors['yellow']}email subject> {colors['clear']}''')
-                    path_body_email = input(f'''{colors['yellow']}message path ({colors['red']}.txt{colors['cyan']})> {colors['clear']}''')
-                    smtp_server = input(f'''{colors['yellow']}SMTP server ({colors['red']}e.g. mail.server.com:587{colors['cyan']})> {colors['clear']}''')
+                    path_body_email = input(f'''{colors['yellow']}message path ({colors['red']}.txt{colors['yellow']})> {colors['clear']}''')
+                    smtp_server = input(f'''{colors['yellow']}SMTP server ({colors['red']}e.g. mail.server.com:587{colors['yellow']})> {colors['clear']}''')
                     smtp_login = input(f'''{colors['yellow']}SMTP login> {colors['clear']}''')
                     smtp_password = input(f'''{colors['yellow']}SMTP password> {colors['clear']}''')
 
@@ -244,7 +244,9 @@ if __name__ == "__main__":
 
                 case 99: # Exit
                     print(f'''{colors['clear']}
-Leaving already? Aw, now you owe us a coffee! Help keep my coding sessions fueled
-by donating. Thanks youu! >> >> >> {colors['yellow']}https://paypal.me/rainierteoxon7?country.x=PH&locale.x=en_US{colors['clear']}
+Leaving already? Aw, now you owe me a coffee! Help keep my coding sessions fueled
+by donating. Thank youu! 
+
+>> >> >> {colors['yellow']}https://paypal.me/rainierteoxon7?country.x=PH&locale.x=en_US{colors['clear']} << << <<
 ''')
                     sys.exit()
