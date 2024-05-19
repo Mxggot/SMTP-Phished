@@ -1,12 +1,35 @@
-# Phished
+<div align="center">
+  <h1>Phished</h1>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
+  </div>
+</div>
+
+<div align="middle">
+  <a href="#disclamer">Disclamer</a> |
+  <a href="#user-manual">User Manual</a> |
+  <a href="#donations">Donations</a>
+</div>
+
+---
 
 ![Phished Alert](https://github.com/Mxggot/SMTP-Phished/blob/main/photos/phished-alert.png)
 
 ![Phished Main Menu](https://github.com/Mxggot/SMTP-Phished/blob/main/photos/phished-mainmenu.png)
 
-#![Phished Help](https://github.com/Mxggot/SMTP-Phished/blob/main/photos/phished-help.png)
-
-# Important Notice
+# Disclamer
 
 This repository contains a sample tool intended solely for educational and awareness purposes regarding the dangers of phishing. The creation and use of phishing tools are illegal and unethical activities. The author of this repository neither encourages nor endorses the practice of phishing.
 
@@ -25,12 +48,6 @@ The use of this tool should be strictly limited to controlled environments and w
 - Keep your security software up to date.
 - Use two-factor authentication whenever possible.
 
-## Contributions and Responsibility
-
-Contributions are welcome to improve awareness and promote cybersecurity. However, all contributions must be ethical and aligned with legal principles.
-
-Remember, cybersecurity is a shared responsibility. Always practice good security measures and help protect the online community.
-
 # User Manual
 
 ## Introduction
@@ -42,15 +59,21 @@ This manual is intended to guide users on the ethical and responsible use of "Ph
 
 ### Requirements
 
-    - Python 3.12.x installed
-    - Permissions to execute scripts in the environment
+    Python 3.12.x installed
+    Git installed 
+    Permissions to execute scripts in the environment
+    
+### Installation
+
+    Open a terminal or command prompt.    
+    git clone https://github.com/Mxggot/SMTP-Phished.git
+    cd SMTP-Phished
 
 ### Running the Tool
 
-    - Open a terminal or command prompt.
-    - Navigate to the directory where the script is located.
-    - Run the script using the command `python3 phished.py` or `./phished.py`.
-    - If the script didn't run you should try setting permission by typing `chmod +x phished.py`.
+    Navigate to the directory where the script is located.
+    Run the script using the command `python3 phished.py` or `./phished.py`.
+    If the script didn't run you should try setting permission by typing `chmod +x phished.py`.
 
 ### Main Menu
 
@@ -79,8 +102,12 @@ This manual is intended to guide users on the ethical and responsible use of "Ph
 
 ---
 
+# Donations
+
 If you found this tool useful and want to support its development, consider buying me a coffee through PayPal:
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-blue.svg)](https://paypal.me/rainierteoxon7?country.x=PH&locale.x=en_US)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-blue.svg)](https://www.paypal.com/paypalme/yourpaypalusername)
 
-Your support is greatly appreciated! ☕️🙏
+<img src="https://gifdb.com/images/high/dancing-roach-insect-796v3spbhd1lipzk.webp" alt="Cute GIF" width="150">
+
+Your support is greatly appreciated! ☕️🙏 
