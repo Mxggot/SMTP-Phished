@@ -11,9 +11,6 @@
     <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
     <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
     <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
-    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
-    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
-    <img src="https://i.giphy.com/5tvXG2bIsjV9Cze7N9.webp" alt="not a maggot" width="70">
   </div>
 </div>
 
