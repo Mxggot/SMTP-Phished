@@ -107,6 +107,6 @@ If you found this tool useful and want to support its development, consider buyi
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-blue.svg)](https://paypal.me/rainierteoxon7?country.x=PH&locale.x=en_US)
 
-<img src="https://gifdb.com/images/high/dancing-roach-insect-796v3spbhd1lipzk.webp" alt="Cute GIF" width="120">
+<img src="https://gifdb.com/images/high/dancing-roach-insect-796v3spbhd1lipzk.webp" alt="Cute GIF" width="101">
 
 Your support is greatly appreciated! ☕️🙏 
