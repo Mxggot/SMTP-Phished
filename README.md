@@ -1,5 +1,5 @@
 <div align="center">
-  # Phished
+  <h1>Phished</h1>
   <div style="display: flex; justify-content: center;">
   </div>
 </div>
