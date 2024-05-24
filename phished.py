@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-##################################################################
-# Imports
-##################################################################
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from smtplib import SMTP_SSL as SMTP
@@ -11,9 +8,6 @@ import sys
 import os
 import time
 
-##################################################################
-# Colors
-##################################################################
 colors = {
     "clear": "\033[m",
     "white": "\033[1;30m",
@@ -25,9 +19,7 @@ colors = {
     "cyan": "\033[1;36m",
     "gray": "\033[1;34m",
 }
-##################################################################
-# Classes and Functions
-##################################################################
+
 def clear_screen():
     if 'linux' in sys.platform:
         os.system('clear')
@@ -179,15 +171,9 @@ def send_email(victim_email, fake_sender, title_email, path_body_email, smtp_ser
     except:
         print(f'''{colors['red']}Failed to send phishing email to {victim_email}!{colors['clear']}''')
 
-##################################################################
-# Main / Principal
-##################################################################
 if __name__ == "__main__":
     warning_message()
 
-    #####################
-    # Main LOOP
-    #####################
     while True:
         while True:
             try:
