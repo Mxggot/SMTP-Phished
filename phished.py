@@ -98,7 +98,7 @@ def warning_message():
 
     ''')
 
-    consent = input(f'''{colors['blue']}Do you agree? ({colors['green']}yes{colors['clear']} or{colors['red']} no{colors['blue']})>{colors['clear']}''')
+    consent = input(f'''{colors['blue']}Do you agree? ({colors['green']}yes{colors['clear']} or{colors['red']} no{colors['blue']})> {colors['clear']}''')
 
     if consent == 'yes':
         print(f'''{colors['yellow']}Loading...{colors['clear']}''')
