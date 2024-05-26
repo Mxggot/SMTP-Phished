@@ -45,9 +45,9 @@ This manual is designed to guide users through the installation and execution of
 
 ### Requirements
 
-    Python 3.12.x installed
-    Git installed 
-    Permissions to execute scripts in the environment
+- Python 3.12.x installed
+- Git installed 
+- Permissions to execute scripts in the environment
     
 ### Installation
 
