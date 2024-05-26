@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Phished</h1>
-  <div style="display: flex; justify-content: center;">
-  </div>
 </div>
 
 <div align="center">
@@ -61,7 +59,7 @@ This manual is designed to guide users through the installation and execution of
 
     Navigate to the directory where the script is located.
     Run the script using the command `python3 phished.py` or `./phished.py`.
-    If the script didn't run you should try setting permission by typing `chmod +x phished.py`.
+    If the script failed to run you should try setting permissions by typing `chmod +x phished.py`.
 
 ### Main Menu
 
