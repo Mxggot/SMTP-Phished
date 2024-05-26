@@ -52,8 +52,8 @@ This manual is designed to guide users through the installation and execution of
 ### Installation
 
     Open a terminal or command prompt.    
-    git clone https://github.com/Mxggot/SMTP-Phished.git
-    cd SMTP-Phished
+    `git clone https://github.com/Mxggot/SMTP-Phished.git`
+    `cd SMTP-Phished`
 
 ### Running the Tool
 
