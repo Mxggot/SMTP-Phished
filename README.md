@@ -3,6 +3,14 @@
 </div>
 
 <div align="center">
+ 
+  [![Last Commit](https://img.shields.io/github/last-commit/Mxggot/SMTP-Phished/main)](https://github.com/Mxggot/SMTP-Phished/commits/main/)
+  [![License](https://img.shields.io/badge/License-MIT-violet.svg)](https://github.com/Mxggot/SMTP-Phished/blob/main/LICENSE)
+  [![Twitter](https://img.shields.io/twitter/follow/yoboireica)](https://twitter.com/yoboireica)
+</div>
+
+
+<div align="center">
   <a href="#disclaimer">Disclaimer</a> |
   <a href="#user-manual">User Manual</a> |
   <a href="#donations">Donations</a>
