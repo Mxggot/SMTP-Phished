@@ -82,9 +82,9 @@ This manual is designed to guide users through the installation and execution of
 
 > When selecting option 1 or 2, provide the requested information, such as email addresses, fake sender, email subject, and message path.
 
-> NOTE: The list of EMAILS must be in .txt format, with emails separated by ';' (semicolon).
+> NOTE: The list of EMAILS must be in `.txt` format, with emails separated by `;` (semicolon).
 
-> NOTE: The message to be sent must be in a .txt file, but its writing must be in HTML.
+> NOTE: The message to be sent must be in a `.txt` file, but its writing must be in `HTML`.
 
 #### SMTP Configuration:
 
